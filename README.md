@@ -4,12 +4,11 @@ SJSU ME106 Fundamentals of Mechatronics Final Project by Tan Nguyen, Trevin Agui
 
 Aim of the project was to create a solar panel that would follow the trajectory of the sun throughout the day using the following:
 
+• Adafruit Feather nRF52840 Sense Microcontroller
 
 • INA169 Current Sensor
 
 • PCF8523 Real Time Clock Sensor
-
-• Adafruit Feather nRF52840 Sense Microcontroller
 
 • Sparkfun Bipolar Stepper Motors 
 
